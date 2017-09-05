@@ -1,0 +1,2 @@
+# BGA-Reflow-Profile-Training-
+ In order to properly remove or replace a BGA on a circuit board post assembly, the proper BGA reflow profile is required. The proper BGA reflow profile ensures that the inter-metallic layer is not too thick or too thin. The proper method for determining the proper BGA reflow profile begins and ends with a "solder sample" board in which thermocouples are embedded into the PCB. To know more about BGA reflow profile Training please visit us: http://articles.org/bga-reflow-profile/
